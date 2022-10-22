@@ -1,2 +1,2 @@
 # spaceship_titanic
-Spaceship Titanic Competition
+Spaceship Titanic Kaggle Competition
